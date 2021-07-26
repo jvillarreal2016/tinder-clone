@@ -1,0 +1,21 @@
+.chatScreen__input {
+    display: flex;
+    padding: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid lightgrey;
+}
+
+.chatScreen__inputField {
+    flex: 1;
+    padding: 10px;
+    border: none;
+}
+
+.chatScreen__inputButton {
+    border: none;
+    background-color: white;
+    font-weight: bolder;
+    color: #fe3d71;
+}
